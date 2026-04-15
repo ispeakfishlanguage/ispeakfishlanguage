@@ -120,8 +120,9 @@ I design and build AI systems where **retrieval**, **grounding**, and **real-wor
 **📧 sandleguiz@gmail.com**  ·  **💼 [LinkedIn](https://www.linkedin.com/in/c-leguizamon)**
 
 ```
-// "I speak fish language" — because retrieval is really just
-//  learning to listen to what the data is trying to tell you.
+// username lore: in Gravity Falls, Mabel meets a merman speaking Spanish and says
+// "no wonder you speak that weird fish language" — I'm a native Spanish speaker,
+// so naturally I had to claim it. 🐟
 ```
 
 </div>
