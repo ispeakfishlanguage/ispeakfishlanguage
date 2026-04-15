@@ -106,8 +106,7 @@ I design and build AI systems where **retrieval**, **grounding**, and **real-wor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ispeakfishlanguage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ispeakfishlanguage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ispeakfishlanguage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9F&langs_count=8)
 
 </div>
 
