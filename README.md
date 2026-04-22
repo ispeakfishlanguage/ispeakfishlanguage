@@ -50,6 +50,7 @@ I design and build AI systems where **retrieval**, **grounding**, and **real-wor
 + AI Consultancy (Founder) — AI Engineering · SEO/AEO · LLM Visibility
   ├── Retrieval-aware content & site architectures
   ├── Making brands legible to LLM-driven search
+  ├── Failure-aware system design (grounding, evals, fallbacks)
   └── Custom AI system design for clients
 
 + Di-Lucaro (Co-founder) — E-commerce · Own platform · Own stack
