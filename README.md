@@ -26,10 +26,11 @@
 ```ts
 const carolina = {
   role:      "Applied AI Engineer",
-  current:   "Walma",
+  current:   ["AI Consultancy", "Di-Lucaro"],
+  shipped:   "2 production AI systems in the past year",
   focus:     ["LLM", "RAG", "Hybrid Retrieval", "AI Reliability"],
   approach:  "AI as a systems engineering discipline",
-  origin:    "Electrical Engineering + Firmware",
+  origin:    "Electronics + Firmware Engineering",
   languages: ["en", "es", "sv", "zh"],
 } as const;
 ```
@@ -41,12 +42,6 @@ I design and build AI systems where **retrieval**, **grounding**, and **real-wor
 ## `> current_mission`
 
 ```diff
-+ @ Walma — AI Engineer
-  ├── Architecting retrieval + visibility solutions
-  ├── Azure AI Foundry integrations
-  ├── Supabase (pgvector) knowledge layers
-  └── LLM behaviour optimization in production
-
 + AI Consultancy (Founder) — AI Engineering · SEO/AEO · LLM Visibility
   ├── Retrieval-aware content & site architectures
   ├── Making brands legible to LLM-driven search
@@ -77,8 +72,19 @@ I design and build AI systems where **retrieval**, **grounding**, and **real-wor
 
 ## `> recent_work`
 
+### 🛠️ Two Production AI Modules — *Walma AI*
+`Feb 2026 → Apr 2026` · **Azure AI Foundry · Supabase · Nuxt 3**
+
+> Two full-scale AI systems shipped concept → production in under 8 weeks.
+
+- **RAG over product manuals & installation guides** (security sector) — cut support-related lookup time by **65%**
+- **Autonomous invoice-audit agent** — verifies invoices against framework agreements (*ramavtal*), reducing manual oversight by **92%**
+- Built a reusable templating system for LLM skill modules to reduce hallucination risk in structured financial and technical extraction
+
+---
+
 ### 🔬 Enterprise RAG System — *Vermiculus Financial Technology*
-`Oct 2025 → Feb 2026` · **Python · PostgreSQL · pgvector · Ollama · Qwen · Instructor-XL**
+`Oct 2025 → Jan 2026` · **Python · PostgreSQL · pgvector · Ollama · Qwen · Instructor-XL**
 
 > Company's first production RAG system. Knowledge retrieval across Confluence, Jira, and GitHub for employee onboarding.
 
@@ -98,6 +104,24 @@ I design and build AI systems where **retrieval**, **grounding**, and **real-wor
 - OpenAI-compatible REST API, web interface, Microsoft Teams integration
 - Scalable ingestion with chunking strategies and metadata modeling
 - Architecture emphasizing traceability and hallucination reduction
+- Reduced time-to-information by **67%** by centralizing siloed sources
+
+---
+
+## `> signal`
+
+```
+> Technical Reviewer · Manning Publications (2026)
+  ├── Evaluating AI Systems — Panos Alexopoulos
+  └── Rearchitecting LLMs — Pere Martra
+
+> Teaching · IHM Business School
+  └── LLMs, MCPs, AI fundamentals → 30+ classmates
+
+> Writing · LinkedIn
+  └── AI system design, evaluation, transparency
+      170K+ impressions · 112K+ reach
+```
 
 ---
 
